@@ -1,0 +1,125 @@
+subject,object,predicates,filtered_preds
+Safety,Access,"['trumping', 'travel', 'dedicated', 'remain', 'built', 'make', 'drop', 'call', 'providing', 'open']","['trumping', 'call', 'remain', 'open', 'providing', 'travel', 'drop', 'make', 'dedicated', 'built']"
+Mile,Route,"['existing', 'die', 'find', 'complete']","['existing', 'die', 'find', 'complete']"
+Sidewalk,Traffic,"['designed', 'see', 'damaged', 'go', 'blocked', 'requires', 'slowing', 'complete', 'read', 'living', 'hear', 'get', 'leave']","['complete', 'slowing', 'read', 'hear', 'living', 'see', 'leave', 'requires', 'damaged', 'get']"
+Construction,Route,"['create', 'palmer']","['create', 'palmer']"
+Motorist,Intersection,"['improve', 'kills']","['improve', 'kills']"
+Accident,Gate,"['kills', 'collapsed']","['kills', 'collapsed']"
+Bus,Bridge,"['add', 'run', 'stop', 'delivering', 'work', 'see', 'reopens', 'walk', 'restricted', 'take', 'do', 'crossing', 'stationed']","['restricted', 'reopens', 'delivering', 'crossing', 'see', 'run', 'stationed', 'walk', 'work', 'add']"
+Traffic,Road,"['need', 'do', 'diverted', 'wed', 'expect', 'accommodate', 'standing', 'investigate', 'cross', 'carried', 'maintained', 'walking', 'pulled', 'remain', 'blocked', 'see', 'close', 'avoid', 'reside', 'caused', 'moving', 'alternating', 'opened', 'closed', 'divert', 'shuts', 'last', 'struck', 'stop', 'starts', 'installed', 'sank', 'prevent', 'hit', 'detoured', 'improve', 'shooting', 'calming', 'reopen', 'contact', 'knocked', 'get', 'run', 'change', 'fix', 'left', 'say', 'causing', 'remains', 'gets', 'consider', 'add', 'involved', 'running', 'put', 'have', 'find', 'closes', 'reduce', 'yield', 'killed', 'dodge', 'zag', 'reopening', 'save', 'crossing', 'lies', 'shut', 'given', 'fills', 'broken', 'working', 'crosses', 'coinciding', 'had', 'assist', 'has', 'following', 'affecting', 'promote', 'begin', 'ignoring', 'turns', 'controls', 'taking', 'doing', 'squeezing', 'confused', 'read', 'remove', 'leave', 'send', 'use']","['crossing', 'stop', 'walking', 'closed']"
+Traffic,Junctions,"['hit', 'injured', 'ing', 'runs', 'cope', 'done', 'allow', 'turning', 'removed']","['removed', 'turning', 'ing', 'hit', 'injured', 'done', 'cope', 'run', 'allow']"
+Car,Footpath,"['intervened', 'sitting', 'taken', 'meant', 'walk', 'has', 'walked', 'dumped', 'struck', 'have', 'waiting', 'parked']","['waiting', 'meant', 'sitting', 'dumped', 'struck', 'walked', 'walk', 'have', 'intervened', 'parked']"
+Route,Way,"['crossing', 'installed', 'slow', 'demolished', 'link', 'take', 'didn', 'creates', 'stop', 'blocking']","['installed', 'crossing', 'demolished', 'link', 'didn', 'slow', 'creates', 'take', 'stop', 'blocking']"
+Road,Injuries,"['causing', 'have', 'highlights', 'threatening', 'cbc', 'reported']","['threatening', 'cbc', 'have', 'reported', 'highlight', 'causing']"
+Mall,Parking,"['heard', 'parking', 'create', 'creating']","['heard', 'parking', 'create', 'creating']"
+Vehicle,Lane,"['remain', 'closed', 'struck', 'hospitalized', 'hits', 'utlize', 'reduced', 'blocks', 'avoid', 'blocking', 'moved', 'flatbed', 'blocked', 'cross', 'occurred', 'fix', 'use', 'hit', 'collided', 'navigate', 'obstructed']","['occurred', 'flatbed', 'hospitalized', 'block', 'moved', 'struck', 'blocking', 'hit', 'remain', 'navigate']"
+Bike,Trail,"['coming', 'come', 'seen', 'swamp', 'ride', 'takes', 'make', 'get', 'create', 'walkers', 'head', 'crossing', 'check', 'opens', 'go', 'described', 'take']","['described', 'swamp', 'ride', 'check', 'crossing', 'open', 'create', 'walker', 'make', 'head']"
+Avenue,Trail,"['thank', 'go', 'include']","['thank', 'go', 'include']"
+Traffic,Area,"['avoid', 'meets', 'reduce', 'ease', 'hope', 'looks', 'expect', 'enter', 'use', 'happens', 'resulting', 'completes', 'starts', 'taping', 'coming', 'handing', 'investigate', 'take', 'involving', 'closed', 'fall', 'limited', 'hit', 'drive', 'expected', 'prepared', 'given', 'leading', 'moving', 'shut', 'stay', 'asks', 'expanded', 'improve', 'effected', 'reopened', 'going', 'blocked', 'used', 'having', 'cleared', 'hoping']","['drive', 'coming']"
+Tree,Path,"['shows', 'grant', 'blocking', 'fallen', 'leaning']","['shows', 'grant', 'blocking', 'fallen', 'leaning']"
+Lane,Highway,"['nb', 'hit', 'wait', 'prioritized', 'installed', 'following', 'closed', 'get', 'cross', 'walk', 'driven']","['wait', 'hit', 'driven', 'walk', 'cross', 'closed', 'prioritized', 'get', 'nb', 'installed']"
+City,Neighborhoods,"['help', 'want', 'bolster', 'connecting', 'need', 'see', 'parked', 'tell']","['bolster', 'want', 'see', 'connecting', 'tell', 'need', 'parked', 'help']"
+Bike,Pathway,"['ride', 'approved', 'get', 'do', 'finished', 'separated']","['separated', 'finished', 'approved', 'get', 'ride', 'do']"
+Driver,Stop,"['wake', 'walking', 'smashing']","['wake', 'walking', 'smashing']"
+Route,Ramp,"['starting', 'alternating']","['starting', 'alternating']"
+City,Highway,"['have', 'closed', 'approves', 'go']","['have', 'closed', 'approves', 'go']"
+Cyclist,Crossing,"['drive', 'stuck', 'ploughing', 'going', 'worried', 'stop', 'flying', '’m', 'causing', 'passed', 'hit', 'fall', 'knocked', 'ended', 'enter', 'find', 'meant', 'crossed', 'apply', 'watching', 'walked', 'cross', 'flew', 'applies', 'rode']",['cross']
+Transit,Connection,"['facing', 'know']","['facing', 'know']"
+Fatality,Area,"['avoid', 'working', 'crossing']","['avoid', 'working', 'crossing']"
+Woman,Injuries,"['suffered', 'closed', 'struck', 'requested', 'crossing', 'said', 'occurred', 'left', 'hit', 'recovering', 'share', 'hospitalised', 'driven', 'sustained', 'run', 'threatening', 'suffers', 'killed', 'have', 'collapsed', 'died', 'injures', 'snarled', 'say', 'walking', 'hits', 'appealing', 'report', 'had', 'according', 'taken', 'headed', 'changing', 'ran', 'crashed', 'received', 'identified', 'questioned', 'using', 'investigating', 'turned', 'involving']",['killed']
+Rail,Crossing,"['adds', 'kept', 'do', 'crossing']","['adds', 'kept', 'do', 'crossing']"
+Car,Overpass,['injuring'],['injuring']
+Parking,Access,"['blocked', 'bing', 'asphalting', 'keeping', 'positioned', 'do', 'provide', 'blocking', 'impeding', 'obstructing', 'interfering', 'make', 'use', 'take', 'paving', 'limiting', 'kidding', 'taken', 'view', 'restricted']","['obstructing', 'taken', 'limiting', 'kidding', 'provide', 'positioned', 'interfering', 'take', 'blocking', 'do']"
+Lane,Access,"['maintained', 'remains', 'check', 'turning', 'closed', 'call', 'improve']","['improve', 'turning', 'call', 'check', 'maintained', 'remains', 'closed']"
+Freeway,Line,"['hit', 'killed']","['hit', 'killed']"
+Bike,Campus,"['hit', 'make', 'watch', 'walking', 'walk', 'have', 'seems']","['walking', 'hit', 'walk', 'make', 'have', 'watch', 'seems']"
+Road,Crossing,"['required', 'works', 'made', 'commence', 'feel', 'stop', 'crossing', 'called', 'provide', 'claim', 'taken', 'changing', 'use', 'apply', 'going', 'looks', 'slows', 'running', 'give', 'hate', 'check', 'follow', 'have', 'moving', 'cross', 'does', 'causing', 'saw', 'killed', 'help', 'led', 'fractured', 'run', 'asked', 'chose']","['crossing', 'stop', 'moving']"
+Traffic,Subway,"['opened', 'complain', 'walking', 'hear', 'serviced', 'walk', 'find']","['find', 'walking', 'complain', 'serviced', 'walk', 'opened', 'hear']"
+Motorist,Front,"['do', 'wanker']","['do', 'wanker']"
+Cyclist,Walkway,['considered'],['considered']
+Bike,Ramp,"['completed', 'finished', 'experience']","['completed', 'finished', 'experience']"
+Bus,Crossing,"['parking', 'found', 'parked', 'left', 'dealing', 'stops', 'come', 'park', 'blocking', 'noticed', 'taking', 'weren', 'screamed', 'slowed', 'need', 'stop', 'prioritize', 'coming', 'doing', 'walk', 'hit', 'isn', 'causes']",['parking']
+City,Tunnel,"['approves', 'saved', 'having', 'learn', 'expect', 'think', 'raped', 'needs', 'getting', 'start']","['having', 'saved', 'need', 'raped', 'expect', 'start', 'learn', 'approves', 'think', 'getting']"
+Driver,Walker,"['crossing', 'gets', 'walks', 'had', 'killed', 'stayed', 'wearing', 'wasn', 'blame', 'charged', 'blamed']","['blame', 'charged', 'crossing', 'wasn', 'had', 'stayed', 'get', 'killed', 'wearing', 'walk']"
+Traffic,Entrance,"['stuck', 'avoid', 'congested', 'get', 'serves', 'affected', 'stay', 'hit']","['hit', 'avoid', 'affected', 'congested', 'get', 'stuck', 'serf', 'stay']"
+Tourist,Path,['hit'],['hit']
+Entrance,Ramp,['rename'],['rename']
+Vehicle,Path,"['entered', 'make', 'drove', 'take', 'help', 'injured', 'act']","['act', 'entered', 'injured', 'drove', 'make', 'take', 'help']"
+Woman,Wheelchair,"['parked', 'charged']","['parked', 'charged']"
+Accident,Footbridge,"['reduced', 'supporting', 'using', 'need', 'use', 'hit']","['hit', 'supporting', 'using', 'use', 'need', 'reduced']"
+Cyclist,Campus,['follow'],['follow']
+Intersection,Crossing,"['shared', 'cry', 'have', 'switch', 'energized', 'using', 'replacing', 'run', 'ran', 'do', 'closed', 'bend', 'hoping', 'turning', 'constitute', 'lacking', 'signalized', 'cross', 'covers', 'imagine']","['turning', 'run', 'switch', 'hoping', 'replacing', 'using', 'constitute', 'shared', 'have', 'ran']"
+Road,Pathway,"['get', 'give', 'make', 'cross', 'required', 'banning', 'crossing', 'provided', 'happens', 'argue', 'see']","['give', 'provided', 'happens', 'crossing', 'see', 'required', 'banning', 'make', 'cross', 'get']"
+Lane,Lights,"['allows', 'tome', 'hack', 'get', 'love', 'becomes', 'centred', 'foresee', 'coming', 'go', 'interact', 'promote', 'buena']","['becomes', 'promote', 'interact', 'hack', 'tome', 'love', 'foresee', 'allows', 'get', 'go']"
+Road,Junctions,"['revealed', 'designed', 'cross', 'count', 'own', 'care']","['revealed', 'count', 'own', 'cross', 'designed', 'care']"
+Street,Shopping,"['depends', 'covered', 'shopping', 'nanjing', 'walking', 'done', 'becomes']","['becomes', 'walking', 'shopping', 'covered', 'done', 'depends']"
+Parking,Stop,"['tried', 'falls']","['tried', 'falls']"
+Driver,Front,"['got', 'passing', 'have', 'stop', 'running', 'observe', 'parked', 'walk', 'glanced', 'walking', 'trumps', 'dare', 'joins', 'walks', 'standing', 'see', 'end']","['walking', 'standing', 'see', 'trump', 'observe', 'got', 'parked', 'passing', 'walk', 'walk']"
+Street,Crossing,"['crowding', 'kept', 'turn', 'run', 'added', 'need', 'create', 'hunts', 'loaded', 'songlines', 'crossing', 'going', 'working', 'die', 'coming', 'rd']","['kept', 'rd', 'added', 'hunt', 'crossing', 'create', 'songlines', 'turn', 'crowding', 'run']"
+Road,Walking,"['disincentivising', 'turning', 'put', 'causes']","['disincentivising', 'turning', 'put', 'causes']"
+Gate,Path,['blocks'],['blocks']
+Lane,Crossing,"['stop', 'help', 'endangers', 'separated', 'miss', 'letting', 'cross', 'improve', 'assisted', 'transforming', 'does', 'decided']","['assisted', 'improve', 'transforming', 'separated', 'cross', 'endangers', 'miss', 'decided', 'doe', 'stop']"
+Walking,Neighborhoods,"['look', 'occur']","['look', 'occur']"
+Bicycle,Path,"['encountering', 'turn', 'take', 'maintain', 'shared', 'open', 'guess']","['maintain', 'guess', 'open', 'shared', 'take', 'encountering', 'turn']"
+Parking,Ramp,"['blocking', 'belong', 'obstructing', 'authorized', 'stop', 'stopped', 'expired', 'see', 'covered', 'displayed', 'display', 'stopping', 'standing', 'drove', 'posted']","['display', 'blocking', 'obstructing', 'expired', 'stopped', 'standing', 'see', 'displayed', 'drove', 'covered']"
+Woman,Highway,"['passing', 'killed', 'identified', 'crossing', 'struck', 'hit', 'moving']","['hit', 'crossing', 'passing', 'struck', 'identified', 'killed', 'moving']"
+Street,Trail,"['happens', 'thank', 'serves', 'trawling', 'include', 'overcrossing']","['happens', 'thank', 'include', 'trawling', 'serf']"
+Footbridge,Crossing,"['assessed', 'authorized', 'try', 'changed']","['assessed', 'authorized', 'try', 'changed']"
+Woman,Overpass,"['driving', 'walking']","['driving', 'walking']"
+Car,Crossing,"['learned', 'navigating', 'stop', 'blocking', 'let', 'getting', 'thank', 'happens', 'cut', 'closed', 'waiting', 'giving', 'knocked', 'parked', 'crashes', 'reduce', 'standing', 'waving', 'obey', 'asshole', 'controlled', 'hits', 'crossing', 'help', 'towed', 'jumping', 'passing', 'kills', 'avoided', 'driving', 'terrifying', 'crossed', 'stood', 'crashed', 'checking', 'appreciated', 'jump', 'go', 'heading', 'goes', 'block', 'leaping', 'going', 'stops', 'designated', 'reversed']",['crashed']
+Driver,Lights,"['sentenced', 'has', 'attacked', 'get', 'looks', 'killed', 'work', 'stopped', 'flashing', 'left', 'got', 'walked', 'replaced', 'understands', 've', 'hits', 'driven', 'inherit', 'running', 'crashes']","['look', 'flashing', 'got', 'driven', 'walked', 'killed', 'understands', 'replaced', 'sentenced', 'inherit']"
+Tree,Crossing,"['leave', 'created', 'build']","['leave', 'created', 'build']"
+Man,Connection,"['killed', 'say', 'arrested', 'files', 'read', 'run', 'injured', 'charged', 'suffered', 'quoting', 'driven', 'following', 'suspected', 'said', 'left', 'hit', 'involving', 'crossing', 'questioned', 'lay']","['said', 'charged', 'read', 'questioned', 'involving', 'driven', 'run', 'quoting', 'file', 'lay']"
+Bike,Path,"['surrounding', 'existing', 'include', 'remain', 'build', 'connects', 'forgotten', 'walk', 'injured', 'walking', 'ride', 'provides', 'motorized', 'dividing', 'improve', 'connecting', 'crossing', 'arise', 'checked', 'know', 'strolling', 'see', 'took', 'approved', 'circulate', 'shared', 'supercede', 'biking', 'stretches', 'open', 'create', 'waiting', 'finishing', 'joins', 'separate', 'become', 'shout', 'add', 'richmond', 'completed', 'ridden', 'go', 'hailing', 'adding']","['walk', 'walking', 'ride']"
+Construction,Ramp,"['begin', 'travel', 'connecting', 'use']","['begin', 'travel', 'connecting', 'use']"
+Route,Square,['walk'],['walk']
+Car,Ride,"['spill', 'relaying', 'stops']","['spill', 'relaying', 'stops']"
+City,Trail,"['breaks', 'extends', 'paint', 'evolve', 'going', 'unveils', 'span', 'see', 'provides', 'build', 'curbed', 'needed', 'connects']","['connects', 'span', 'unveils', 'see', 'evolve', 'curbed', 'provides', 'extends', 'build', 'break']"
+Woman,Connection,"['occurred', 'stabbing', 'run', 'helping', 'crossing', 'turned', 'said', 'coming', 'injured', 'killed']","['occurred', 'said', 'helping', 'crossing', 'stabbing', 'run', 'injured', 'killed', 'turned', 'coming']"
+Accident,Eastbound,"['involving', 'reopens', 'blocked', 'closed', 'approaching', 'struck', 'avoid']","['approaching', 'involving', 'struck', 'avoid', 'closed', 'reopens', 'blocked']"
+Road,Path,"['speeding', 'ask', 'share', 'forcing', 'turn', 'shared', 'go', 'wait', 'designed', 'sit', 'said', 'cut', 'taking', 'crossing', 'closed', 'blocking']","['said', 'taking', 'sit', 'wait', 'ask', 'crossing', 'forcing', 'shared', 'cut', 'closed']"
+Bicycle,Ride,"['take', 'walk', 'do', 'said', 'spotted', 'learn', 'needs']","['said', 'need', 'spotted', 'learn', 'walk', 'take', 'do']"
+Mile,Trail,"['make', 'runs', 'existing']","['make', 'runs', 'existing']"
+Vehicle,Trail,"['crash', 'open']","['crash', 'open']"
+Space,Path,"['shared', 'used', 'use']","['shared', 'used', 'use']"
+Bus,Wheelchair,"['reported', 'hit', 'calming']","['reported', 'hit', 'calming']"
+Ramp,Crossing,['crossing'],['crossing']
+Woman,Ride,"['killed', 'bounced', 'stick']","['killed', 'bounced', 'stick']"
+Bike,Line,"['connect', 'shared']","['connect', 'shared']"
+Construction,Pathway,"['begins', 'make', 'connects', 'repair', 'funded']","['begins', 'make', 'connects', 'repair', 'funded']"
+Roundabout,Crossing,"['defeats', 'goes', 'cont', 'park', 'drives']","['defeats', 'goes', 'cont', 'park', 'drives']"
+City,Precinct,"['develop', 'has', 'unveils', 'seemly']","['develop', 'has', 'unveils', 'seemly']"
+City,Path,"['do', 'look', 'according', 'learn', 'paints', 'interconnected', 'closed', 'celebrated', 'folded', 'convert', 'connect', 'build']","['according', 'look', 'folded', 'convert', 'learn', 'paint', 'celebrated', 'closed', 'build', 'connect']"
+Block,Ride,"['exhibiting', 'happens']","['exhibiting', 'happens']"
+Cyclist,Precinct,"['riding', 'bollocking', 'seemed', 'had']","['riding', 'bollocking', 'seemed', 'had']"
+Foot,Trail,"['approved', 'ez', 'replaced', 'suspended']","['approved', 'ez', 'replaced', 'suspended']"
+Traffic,Navigation,"['pulled', 'switch']","['pulled', 'switch']"
+Walking,Pathway,['ride'],['ride']
+Traffic,Crossing,"['passing', 'approaching', 'occupying', 'notice', 'calming', 'broken', 'improve', 'go', 'stop', 'note', 'breach', 'lights', 'required', 'invest', 'changing', 'embedded', 'have', 'take', 'hit', 'see', 'submit', 'cross', 'clearing', 'looks', 'crossing', 'add', 'watch', 'going', 'causing', 'james', 'killed', 'backed', 'combat', 'working', 'turn', 'allow', 'knows', 'create']","['crossing', 'stop', 'turn']"
+Westbound,Overpass,['closed'],['closed']
+Downtown,Square,['clog'],['clog']
+City,Square,"['transforming', 'breaks', 'wins', 'designing', 'remember']","['transforming', 'breaks', 'wins', 'designing', 'remember']"
+Car,Fence,"['calming', 'struck', 'crashed', 'landed', 'allowed', 'protect', 'ended', 'thank', 'killing', 'crashing', 'foiled']","['foiled', 'thank', 'crashing', 'allowed', 'struck', 'killing', 'landed', 'crashed', 'calming', 'ended']"
+Road,Campus,['closed'],['closed']
+City,Deck,"['vote', 'linking']","['vote', 'linking']"
+Street,Precinct,"['remember', 'wasted', 'changed']","['remember', 'wasted', 'changed']"
+Safety,Speeding,['raising'],['raising']
+Bike,Subway,['spend'],['spend']
+Driver,Overpass,"['charged', 'killed', 'got']","['charged', 'killed', 'got']"
+Driver,Square,"['arrested', 'went']","['arrested', 'went']"
+Vehicle,Fence,"['pronounce', 'ended', 'boo']","['pronounce', 'ended', 'boo']"
+Pathway,Fence,['crushed'],['crushed']
+Link,Stop,"['crosswalk', 'sign']","['crosswalk', 'sign']"
+Ramp,Stop,['using'],['using']
+Driver,Precinct,['escorted'],['escorted']
+City,Overpass,"['hop', 'skybridge', 'study', 'faces', 'seeks', 'removing', 'manila', 'getting']","['removing', 'manila', 'hop', 'face', 'getting', 'skybridge', 'study', 'seek']"
+Woman,Fence,"['stuck', 'put']","['stuck', 'put']"
+Man,Drunk,['killing'],['killing']
+Bridge,Deck,"['remain', 'goes', 'replaced']","['remain', 'goes', 'replaced']"
+Construction,Fence,"['stay', 'see', 'blocked']","['stay', 'see', 'blocked']"
+Construction,Overpass,"['begin', 'link', 'begins', 'according', 'removed', 'help']","['removed', 'according', 'begin', 'begin', 'link', 'help']"
+Shopping,Precinct,"['let', 'upgrade', 'has']","['let', 'upgrade', 'has']"
+Injuries,Overpass,['removed'],['removed']
+Rail,Deck,['involved'],['involved']
+Bike,Deck,"['links', 'continues']","['links', 'continues']"
+City,Drunk,['pleads'],['pleads']
